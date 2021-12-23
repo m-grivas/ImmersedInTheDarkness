@@ -10,8 +10,8 @@ You are a dedective, trying to solve a mystery.
 There are 3 suspects.
 
 Each one has left evidence to a different room.
-
 Combining all evidence and the notebook of the owner you will have to unravel the mystery and find the assasin.
+
 
 Basik features:
 

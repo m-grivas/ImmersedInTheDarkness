@@ -1,5 +1,6 @@
 # ImmersedInTheDarkness
-My first game: a text adventure
+---
+*My first game: a text adventure
 
 I made it when I was 12 years old, using the fundamentals of python.
 
@@ -13,14 +14,14 @@ Combining all evidence and the notebook of the victim you will have to unravel t
 
 Basic features:
 
-    • move in 4 directions.
-    
-    • use items.
-    
-    • save & load.
-    
-    • add items to inventory.
+- move in 4 directions.
+
+- use items.
+
+- save & load.
+
+- add items to inventory.
     
 This game has an extra challenge to orientate and to not be lost
 
-And something more: My game is written in Greek...
+And something more: My game is written in Greek...*

@@ -1,6 +1,6 @@
 # ImmersedInTheDarkness
 ---
-*My first game: a text adventure
+*My first game: a text adventure*
 
 I made it when I was 12 years old, using the fundamentals of python.
 
@@ -24,4 +24,4 @@ Basic features:
     
 This game has an extra challenge to orientate and to not be lost
 
-And something more: My game is written in Greek...*
+And something more: My game is written in Greek...

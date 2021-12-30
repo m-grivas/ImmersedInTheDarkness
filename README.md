@@ -13,13 +13,13 @@ Combining all evidence and the notebook of the victim you will have to unravel t
 
 Basic features:
 
-*move in 4 directions.
+- move in 4 directions.
 
-*use items.
+- use items.
 
-*save & load.
+- save & load.
 
-*add items to inventory.
+- add items to inventory.
 
 This game has an extra chalenge to orientate and to not be lost
 

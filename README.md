@@ -1,5 +1,5 @@
 # ImmersedInTheDarkness
-My first game, stared from a text adventure, and now a 2d mystery game, and mayby a 3d game.
+My first game: a text adventure
 
 I made it when I was 12 years old, using the fundamentals of python.
 
@@ -11,7 +11,7 @@ Each one has left evidence to a different room.
 Combining all evidence and the notebook of the victim you will have to unravel the mystery and find the assasin.
 
 
-Basik features(text_adventure):
+Basik features:
 
 -move in 4 directions.
 

@@ -22,3 +22,7 @@ Basik features:
 -add items to inventory.
 
 This game has an extra chalenge to orientate and to not be lost
+
+
+And something more:
+My game is written in greek...
